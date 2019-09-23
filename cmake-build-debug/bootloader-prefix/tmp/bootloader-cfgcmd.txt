@@ -1,0 +1,1 @@
+cmd='/home/talha/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/191.7479.33/bin/cmake/linux/bin/cmake;-DSDKCONFIG=/home/talha/esp/hello_world/sdkconfig;-DIDF_PATH=/home/talha/esp/esp-idf;-DEXTRA_COMPONENT_DIRS=/home/talha/esp/esp-idf/components/bootloader;-GCodeBlocks - Unix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'
